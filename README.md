@@ -6,7 +6,7 @@ This is the website for, [http://cebucodecamp.org](http://cebucodecamp.org).
 
 ```
 bundle
-bundle exec jekyll s -w
+bundle exec jekyll s --watch
 ```
 
 ## Requirements
