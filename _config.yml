@@ -3,7 +3,10 @@ destination: ./_site
 plugins_dir: ./_plugins
 layouts_dir: ./_layouts
 data_dir: ./_data
-collections: null
+
+collections:
+  posts:
+    output: true
 
 # Handling Reading
 include: [ ".htaccess" ]
@@ -69,8 +72,14 @@ gems:
  - jekyll-paginate
 
 defaults:
- -
-   scope:
-     path: ""
-   values:
-     layout: "default"
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

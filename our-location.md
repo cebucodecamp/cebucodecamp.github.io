@@ -1,4 +1,5 @@
 ---
+title: Our location
 ---
 ## Our location
 

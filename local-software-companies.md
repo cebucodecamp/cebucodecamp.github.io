@@ -1,4 +1,5 @@
 ---
+title: Local software companies
 ---
 <blockquote>NOTICE: This is an informal list of companies local in Cebu and nearby, who are building software, either for their own product, or for a client. This should give a general idea of what companies are out there, and what are their tech stack.</blockquote>
 
