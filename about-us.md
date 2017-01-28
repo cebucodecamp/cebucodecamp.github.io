@@ -1,4 +1,5 @@
 ---
+title: About us
 ---
 ## Software built by great teams, for the world
 

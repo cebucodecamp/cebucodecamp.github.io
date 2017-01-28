@@ -1,4 +1,5 @@
 ---
+title: Local groups
 ---
 
 <blockquote>NOTICE: This is an informal list of local tech meetups in

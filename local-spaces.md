@@ -1,5 +1,7 @@
 ---
+title: Local working spaces
 ---
+
 <blockquote>NOTICE: This is an informal list of local co-working spaces in
 Cebu and nearby.</blockquote>
 
