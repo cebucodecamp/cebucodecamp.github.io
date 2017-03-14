@@ -42,7 +42,7 @@ every member has an interest in actively contributing.
 * Kanji from FullSpeed Engineering
 * Mark from Caresharing
 * [Murat](http://www.linkedin.com/in/murat-knecht) from [engageSPARK](https://www.engagespark.com/)
-* Rolando from Trax Technologies
+* Rolando from [Trax Technologies](https://www.traxtech.com/)
 
 
 ## Meetings so far:
