@@ -41,7 +41,8 @@ every member has an interest in actively contributing.
 * Froi from Synacy
 * Kanji from FullSpeed Engineering
 * Mark from Caresharing
-* [Murat](http://www.linkedin.com/in/murat-knecht) from [engageSPARK](https://www.engagespark.com/).
+* [Murat](http://www.linkedin.com/in/murat-knecht) from [engageSPARK](https://www.engagespark.com/)
+* Rolando from Trax Technologies
 
 
 ## Meetings so far:
@@ -50,7 +51,7 @@ every member has an interest in actively contributing.
 Other topics: How is pair-programming doing in our companies, if at all?
 Gather devs and students behind an open-source project to strengthen the tech community.
 Create this page. :)
-1. February:
+1. February: Mark shared his thoughts and learnings about applying Kaizen methodology at Caresharing. Other topics: Hiring.
 1. January: 
 
 A few in 2016, when we started.
