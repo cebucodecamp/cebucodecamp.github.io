@@ -36,8 +36,8 @@ every member has an interest in actively contributing.
 
 * Albert from Symph
 * Baptiste from [Startechup](http://www.startechup.com/) and Startup Oasis
-* Belmer from DNA Micro
-* Farsheed from DNA Micro (mostly remote :) )
+* [Belmer](https://www.linkedin.com/in/mrb2008/) from [{dna:micro}](http://www.dnamicro.com/)
+* Farsheed from [{dna:micro}](http://www.dnamicro.com/) (mostly remote :) )
 * Froi from Synacy
 * [Kanji](https://www.linkedin.com/in/kanji-furuhashi-7b248517/) from [FullSpeed Technologies](https://fullspeedtechnologies.com/)
 * Mark from Caresharing
