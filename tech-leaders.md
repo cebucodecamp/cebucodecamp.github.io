@@ -39,7 +39,7 @@ every member has an interest in actively contributing.
 * Belmer from DNA Micro
 * Farsheed from DNA Micro (mostly remote :) )
 * Froi from Synacy
-* Kanji from FullSpeed Engineering
+* [Kanji](https://www.linkedin.com/in/kanji-furuhashi-7b248517/) from [FullSpeed Technologies](https://fullspeedtechnologies.com/)
 * Mark from Caresharing
 * [Murat](http://www.linkedin.com/in/murat-knecht) from [engageSPARK](https://www.engagespark.com/)
 * Rolando from [Trax Technologies](https://www.traxtech.com/)
