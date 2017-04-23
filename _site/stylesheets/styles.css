@@ -159,7 +159,7 @@ img {
 
 header {
   width:270px;
-  position:fixed;
+  position:absolute;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -207,7 +207,7 @@ strong {
   font-weight:700;
 }
 
-header ul a strong {
+header ul a {
   font-size:14px;
   color:#222;
 }
@@ -230,10 +230,6 @@ hr {
 }
 
 footer {
-  width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
