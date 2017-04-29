@@ -29,6 +29,6 @@ _*We use programmers interchangeable with software engineers. We don't like to a
 
 ## Team
 
-- [Mark John Buenconsejo](https://github.com/markjeee) of Caresharing
+- [Mark John Buenconsejo](https://markjeee.github.io) of [Next Level](http://nlevel.io)
 - [Murat Knecht](https://github.com/mknecht) of engageSPARK
 - [Javier Alcázar](https://github.com/user454322) of ISR

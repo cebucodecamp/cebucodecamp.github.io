@@ -1,9 +1,11 @@
 ---
 title: Local software companies
 ---
-<blockquote>NOTICE: This is an informal list of companies local in Cebu and nearby, who are building software, either for their own product, or for a client. This should give a general idea of what companies are out there, and what are their tech stack.</blockquote>
 
-<br />
+# Local Software Companies
+
+> NOTICE: Add or update details of your companies, please 
+> [let us know](contact-us.html).
 
 **[Arcanys](http://arcanys.com)**
 
@@ -13,7 +15,13 @@ title: Local software companies
 
 Building own product for Healthcare<br />
 Technical team size: 20 - 25<br />
-Tech Stack: Ruby, Web-JS, Linux
+Tech Stack: Ruby, React, Linux
+
+***
+
+**[DNA Micro](http://dnamicro.com)**
+
+Node.js
 
 ***
 
@@ -30,15 +38,17 @@ Security, Java, iOS
 
 ***
 
-**[Synacy](http://synacy.com)**
+**[Next Level](http://nlevel.io)**
 
-Python, Java
+Tools and techniques for software team agility, software delivery, and software maintenance.
+
+Ruby, Go, Haskell, Chef, Docker
 
 ***
 
-**[DNA Micro](http://dnamicro.com)**
+**[Synacy](http://synacy.com)**
 
-Node.js
+Python, Java
 
 ***
 

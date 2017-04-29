@@ -4,7 +4,7 @@ title: Coding Cafe
 
 # Coding Cafe
 
-## Announcement
+### Announcement
 
 We are taking a break from hosting a Coding Cafe at the moment. Neither of us (Mark and Murat) has the bandwidth to promote and regularly host it.
 
