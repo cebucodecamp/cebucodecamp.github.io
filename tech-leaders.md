@@ -39,6 +39,7 @@ every member has an interest in actively contributing.
 * [Belmer](https://www.linkedin.com/in/mrb2008/) from [{dna:micro}](http://www.dnamicro.com/)
 * Farsheed from [{dna:micro}](http://www.dnamicro.com/) (mostly remote :) )
 * Froi from Synacy
+* Garik from Blvnp Inc.
 * [Yohei](https://www.linkedin.com/in/yohei-tanimoto-57238555/) and [Kanji](https://www.linkedin.com/in/kanji-furuhashi-7b248517/) from [FullSpeed Technologies](https://fullspeedtechnologies.com/)
 * Mark from [Next Level](http://nlevel.io)
 * [Murat](http://www.linkedin.com/in/murat-knecht) from [engageSPARK](https://www.engagespark.com/)
