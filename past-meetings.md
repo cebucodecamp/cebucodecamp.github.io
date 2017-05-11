@@ -1,14 +1,16 @@
 ---
-title: Cebu Tech Leaders Group ( Past Meetings)
+title: Cebu Tech Leaders Group (Past Meetings)
 ---
 
 # May 9, 2017 @ {dna:micro}
+
+Attendees: Mark (Host), Belmer (Scribe), Froi, Garik, Murat, Rolando
 
 ## Updates
 Just anything about anyone in their respective organizations.
 
 ## Introduction by Garik
-Garik is the new member of the group. He is the CEO of Blvnp Inc, a publishing company. Garik main strength is actually on the area of Finance & Marketing but he is very interested on Software. He has a bit of programming background too using PHP. And most importantly he loves Island Hoping.. ;-)
+Garik is the new member of the group. He is the CEO of Blvnp Inc, a publishing company. Garik's main strength is actually on the area of Finance & Marketing but he is very interested on Software. He has a bit of programming background too using PHP. And most importantly he loves Island Hoping.. ;-)
 
 Blvnp Inc. has a unique culture I must say. 
 
