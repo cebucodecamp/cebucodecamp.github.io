@@ -21,4 +21,4 @@ Froi talked about CI and how they're actually using it in Synacy. The following 
 
 ## Cyber Security by Murat
 Murat talked about the overview of Cyber Security, large attacks and more. 
-Click Here for all resources and contents.
+[Click Here](https://github.com/belmer/cebucodecamp.github.io/blob/belmer/meeting_repo/2017-05-09-cybersecurity-fundamentals.org) for all resources and contents.
