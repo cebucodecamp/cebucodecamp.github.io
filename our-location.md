@@ -5,7 +5,7 @@ title: Our location
 
 We don't have an official business address, yet.
 
-All of us primarily work in our own companies and offices. However, all of us live and work in the same city, Cebu, Philippines. This will affect where we will host the events and trainings we plan to do. Primarily, it will be within the city.
+All of us primarily work in our own companies and offices. However, all of us live and work in the same city, Cebu, Philippines. This will affect where we will host the events and trainings we plan to do. Obviously, it will be within the city.
 
 If you are not familiar yet with Cebu, you can find a lot of good information from these websites,
 
