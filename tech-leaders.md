@@ -45,10 +45,11 @@ every member has an interest in actively contributing.
 * [Murat](http://www.linkedin.com/in/murat-knecht) from [engageSPARK](https://www.engagespark.com/)
 * Rolando from [Trax Technologies](https://www.traxtech.com/)
 
+## Meetings so far ([Past Meetings](/past-meetings.html)):
 
-## Meetings so far:
-
-1. March: If and how to organize and encourage learning as a habit in our companies.
+1. May- [Past Meetings](/past-meetings.html)
+1. April
+1. March: If and how to organize and encourage learning as a habit in our companies. 
 Other topics: How is pair-programming doing in our companies, if at all?
 Gather devs and students behind an open-source project to strengthen the tech community.
 Create this page. :)

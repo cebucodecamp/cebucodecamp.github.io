@@ -1,0 +1,134 @@
+Hello!
+This is an [[http://orgmode.org/][Org-mode]] file, and can be viewed nicely with
+[[https://www.gnu.org/software/emacs/][Emacs]] and
+[[https://github.com/rlister/org-present][org-present]].
+
+
+* Agenda
+
+** Intro to edx?
+** Intro to the course (1min)
+** Course Contents (3min)
+** Highlights (10min)
+** Applied to engageSPARK (3min)
+** Q&A
+
+* Intro to edx?
+
+- Discussion forum
+- Live Q&A (in this course)
+
+* Intro to the course
+
+https://courses.edx.org/courses/course-v1:RITx+CYBER501x+1T2017/info
+Jonathan S. Weissman
+Lecturer, Computing Security
+Rochester Institute of Technology (RiX
+
+[[https://www.edx.org/micromasters/ritx-cybersecurity][MicroMasters program in Cybersecurity]]
+
+Certificate: $150 for this course (didn't do it)
+
+Target audience: Beginners to the topics.
+
+* Course Contents
+
+7 modules so far
+
+** Unit 1: Computing Security Concepts and Problems 1
+Introduction: what's cybersecurity about, what's a vulnerability, famous hacks
+** Unit 2: Computing Security Concepts and Problems 2
+Models to approach cybersecurity
+** Unit 3: Cryptography
+Hashes, certificates, symmetric vs asymmetric encryption
+** Unit 4+5: Networking 1 &2
+Didn't watch.
+
+IP, subnet mask, routing, MAC addresses
+Ports, TCP, UDP, switches, dynamic routing,
+** Unit 6: Systems Administration
+static addresses, DHCP + DNS
+** Unit 7: Detection and Prevention
+Firewalls, IDS, IPS and the differences between them.
+Decoy systems and honeypots
+
+* Highlights!
+
+** Two hacks: MySpace and Target
+** Two “models”: CIA and AAA
+** Other thoughts
+
+* Highlight: MySpace hack
+111,341,258 user names with passwords exposed
+
+Why's that still relevant today?
+* Highlight: Target attack, overview
+[[http://www.cio.com/article/2600345/security0/11-steps-attackers-took-to-crack-target.html][Very nice technical reconstruction of the attack]]
+
+December 2013, the hack was published
+
+Stolen:
+• Personal Identifiable Information (PII) of 70 million customers
+• 40 million credit cards and debit cards
+
+CEO and CIO resigned
+Fin damages: $1b
+* Highlight: Target attack, how
+• the HVAC (Heating, ventilation and air conditioning) provider was hacked
+using email-phishing
+• gained access to targets vendor systems
+• PHP vulnerability
+• Created Windows Domain Admin account
+• Used this to gain access to the DB servers
+• Create FTP server to download the files
+* Highlight: CIA model
+
+Looking at what we want to achieve
+and what we must *balance*
+
+• Confidentiality: Restricting read-access to sensitive information. Cryptography.
+• Integrity: We feel safe that the data transmitted, processed and stored
+  has not been changed from its original form.
+• Availability: Authorized ppl have access to the services. This includes protection from DDoS or disaster.
+
+* Highlight: AAA, ???
+
+Looking at how to achieve the proper CIA balance.
+
+* Highlight: AAA, Authentication
+• Multiple factors:
+    Something you know (e.g. password, passphrase),
+    something you have (e.g. keyfile, passport),
+    something you are (e.g. biometrics, your retina)
+
+A password and a secret phrase are *not* two factors!
+
+* Highlight: AAA: Authorization
+
+We know who you are: What are you allowed to do?
+
+• Principle of Least Privilege
+
+* Highlight: AAA, Accounting
+Keeping track of users and their actions.
+-> alerts for suspicious behavior
+-> forensics after an attack
+
+*At Target, the new admin may have raised eyebrows!*
+
+* Highlight: Security vs. Availability
+It's a balance.
+
+Perfect availability: No restrictions.
+Perfect security: System is offline
+* Kerckhoffs's Principle
+Only secrecy of the key provides security (not secrecy of the algorithm).
+https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle
+* Applied to engageSPARK
+** Authentication: 2-factor login for critical services
+Mark has shown this works at Caresharing for SSH!
+** Accounting: Admin-account monitoring
+** Accounting: SSH access mails
+** Authorization: Somehow disable bulk access
+** AuthorizationRestricting DB access to necessary parts
+** Availability: Easily restorable backups and recovery procedures
