@@ -33,8 +33,7 @@ Python, Web-JS, Linux
 
 **[ISR](http://www.isrus.com/)**
 
-Building own product for Enterprise Security
-Security, Java, iOS
+Building own product for Enterprise Security, Java, iOS
 
 ***
 

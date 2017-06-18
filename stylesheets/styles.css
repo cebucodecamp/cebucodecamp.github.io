@@ -218,6 +218,10 @@ section {
   padding-bottom:50px;
 }
 
+body section {
+  margin-top: 10px;
+}
+
 small {
   font-size:11px;
 }
