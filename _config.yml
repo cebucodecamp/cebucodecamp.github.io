@@ -45,8 +45,6 @@ timezone: null
 
 quiet: false
 
-github:
-
 kramdown:
   input: GFM
   hard_wrap: false
