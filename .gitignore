@@ -8,3 +8,4 @@ auto-save-list
 tramp
 .\#*
 _site
+.DS_Store

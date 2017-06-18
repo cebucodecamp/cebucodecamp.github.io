@@ -45,10 +45,11 @@ every member has an interest in actively contributing.
 * [Murat](http://www.linkedin.com/in/murat-knecht) from [engageSPARK](https://www.engagespark.com/)
 * Rolando from [Trax Technologies](https://www.traxtech.com/)
 
-## Meetings so far ([Past Meetings](/past-meetings.html)):
+## Meetings so far
 
-1. May- [Past Meetings](/past-meetings.html)
-1. April
+1. [Jun 13, 2017](/2017/06/13/CTL-meets-at-trax-tech.html) @ Trax Technologies
+1. [May 9, 2017](/2017/05/09/CTL-meets-at-dna-micro.html) @ {dna:micro}
+1. April: Open forum. No specific topic.
 1. March: If and how to organize and encourage learning as a habit in our companies. 
 Other topics: How is pair-programming doing in our companies, if at all?
 Gather devs and students behind an open-source project to strengthen the tech community.
