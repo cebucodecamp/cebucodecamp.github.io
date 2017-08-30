@@ -47,6 +47,8 @@ every member has an interest in actively contributing.
 
 ## Meetings so far
 
+1. [Aug 29, 2017](/2017/08/29/CTL-meets-at-dna-micro.html) @ {dna:micro}
+1. July 18, 2017, hosted by Garik at Blvnp office
 1. [Jun 13, 2017](/2017/06/13/CTL-meets-at-trax-tech.html) @ Trax Technologies
 1. [May 9, 2017](/2017/05/09/CTL-meets-at-dna-micro.html) @ {dna:micro}
 1. April: Open forum. No specific topic.
