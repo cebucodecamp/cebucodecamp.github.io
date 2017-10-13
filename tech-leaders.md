@@ -47,7 +47,7 @@ every member has an interest in actively contributing.
 
 ## Meetings so far
 
-1. [Oct 12, 2017](/2017-10-12-CTL-meets-at-symph.html) @ {dna:micro}
+1. [Oct 12, 2017](/2017-10-12-CTL-meets-at-symph.html) @ Symph
 1. [Aug 29, 2017](/2017/08/29/CTL-meets-at-dna-micro.html) @ {dna:micro}
 1. July 18, 2017, hosted by Garik at Blvnp office
 1. [Jun 13, 2017](/2017/06/13/CTL-meets-at-trax-tech.html) @ Trax Technologies
